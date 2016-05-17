@@ -1,0 +1,30 @@
+{
+  "name": "bulbcriacoes-webkit",
+  "version": "1.0.0",
+  "description": "Webkit experimental para criação de sites",
+  "author": "Edgar Valfogo <edgarvalfogo@outlook.com>  (http://www.bulbcriacoes.com.br/)",
+  "keywords": [
+    "sass",
+    "web",
+    "kit",
+    "responsive",
+    "boilerplate",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "*",
+    "font-awesome": "^4.5.0",
+    "gulp": "*",
+    "gulp-ftp": "*",
+    "gulp-image-optimization": "*",
+    "gulp-jade": "*",
+    "gulp-rename": "*",
+    "gulp-sass": "*",
+    "gulp-typescript": "*",
+    "gulp-uglify": "*",
+    "gulp-util": "*",
+    "jade": "*",
+    "jquery": "^2.2.3"
+  }
+}
