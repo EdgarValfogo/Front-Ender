@@ -25,6 +25,7 @@
     "gulp-uglify": "*",
     "gulp-util": "*",
     "jade": "*",
-    "jquery": "^2.2.3"
+    "jquery": "^2.2.3",
+    "bootstrap-sass": "*"
   }
 }
